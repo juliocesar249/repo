@@ -2,7 +2,7 @@
     {
         "nome": "Maria",
         "genero": "feminino",
-        "idade: 19,
+        "idade": 19,
         "estadoCivil": {
             "namorando": true,
             "parceiro": "José"
@@ -11,7 +11,7 @@
     {
         "nome": "José",
         "genero": "masculino",
-        "idade: 20,
+        "idade": 20,
         "estadoCivil": {
             "namorando": true,
             "parceiro": "Maria"
